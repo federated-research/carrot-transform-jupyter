@@ -38,3 +38,6 @@ Thumbs.db
 # uv
 .uv/
 
+# Carrot Transform output
+carrottransform/examples/test/test_output/
+
